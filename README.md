@@ -11,7 +11,7 @@ The bot scrap tokens in https://www.pinksale.finance/launchpads?chain=BSC and se
 
 
 Are you interested in getting a bot like this or similar?
-Do you need a telegram bot or other types of bots / automation developed for you?< /br>
+Do you need a telegram bot or other types of bots / automation developed for you?
 Are you interested in trending ranking services such as Coinmarketcap, Coingecko, Dextools, Crypto.com, etc ?
 
 If you need any of these things or need to find someone to develop an idea for you feel free to get in touch via Telegram -> **https://t.me/nobility_dev**
